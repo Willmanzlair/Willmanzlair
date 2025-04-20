@@ -1,29 +1,35 @@
-<h1>Hi, I'm Princewill Okonjo!<br/>
-<a href="https://github.com/Willmanzlair">Cybersecurity Beginner</a> | Exploring Ethical Hacking, Web App Security & Bug Bounty Hunting
-</h1>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is PRINCEWILL OKONJO
+=========================================================================================================================================
 
-<!--
-I’m building my skills in ethical hacking, penetration testing, and bug bounty hunting. I enjoy breaking things to understand how they work — and making the internet a safer place because of it.
--->
+Web Application Penetration Tester.
+-----------------------------------
 
-<h2> 🤳 Connect with me:</h2>
+Cybersecurity Beginner | Exploring Ethical Hacking, Web App Security & Bug Bounty Hunting
 
-[<img align="left" alt="Willmanzlair | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Princewill Okonjo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+* 🌍  I'm based in United Kingdom
+* ✉️  You can contact me at [iamfloki.a@gmail.com](mailto:iamfloki.a@gmail.com)
 
-<br/>
+<a href="https://www.github.com/Willmanzlair" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Willmanzlair?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/Willmanzlair" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/Willmanzlair?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a>
 
-[twitter]: https://twitter.com/Willmanzlair  
-[linkedin]: https://www.linkedin.com/in/princewill-okonjo-951710255
+### Skills
 
-<!--
-**Willmanzlair/Willmanzlair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-🔥 Areas of interest (coming soon):
-- Ethical Hacking Projects
-- Custom Recon Scripts
-- Capture The Flag Writeups
-- Reporting & Documentation Templates
+<p align="left">
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
+</p>
 
-This profile will grow as I grow. Stay tuned.
--->
+
+### Socials
+
+<p align="left"> <a href="https://discord.com/users/willmanzlair" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/Willmanzlair" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/princewill-okonjo-951710255" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/Willmanzlair" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/Willmanzlair"><img src="https://github-readme-stats.vercel.app/api?username=Willmanzlair&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Willmanzlair's GitHub stats" /></a>
+
+<a href="http://www.github.com/Willmanzlair"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Willmanzlair&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
