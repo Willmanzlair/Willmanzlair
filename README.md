@@ -14,6 +14,12 @@ src="https://img.shields.io/github/followers/Willmanzlair?logo=github&style=for-
 src="https://img.shields.io/twitter/follow/Willmanzlair?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
+## 📁 AppSec Portfolio
+
+Explore my hands-on exploitation case files:
+ [AppSec-Deliverables](https://github.com/Willmanzlair/AppSec-Deliverables)
+
+
 ### Skills
 
 
