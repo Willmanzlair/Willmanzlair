@@ -1,10 +1,10 @@
-Hi 👋 My name is PRINCEWILL OKONJO
+Hi, My name is PRINCEWILL OKONJO!
 ==================================
 
 Web Application Penetration Tester.
 -----------------------------------
 
-Cybersecurity Beginner | Exploring Ethical Hacking, Web App Security & Bug Bounty Hunting
+Cybersecurity Professional | Ethical Hacker | Web App Penetration Tester | Bug Bounty Researcher
 
 * 🌍  I'm based in United Kingdom
 * ✉️  You can contact me at [iamfloki.a@gmail.com](mailto:iamfloki.a@gmail.com)
