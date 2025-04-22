@@ -4,10 +4,45 @@
 ---
 
 🔐 Cybersecurity Professional | Ethical Hacker | Web App Pentester | Bug Bounty Researcher
-🌍 Based in the United Kingdom
-📬 Contact me: iamfloki.a@gmail.com
+
+I specialize in offensive security with a focus on web application testing, real-world exploitation, and risk-driven vulnerability management. Guided by industry standards I deliver precise, high-impact assessments and professional reporting that strengthen security posture and drive actionable outcomes.
 
 ---
+
+## 📡 Connect with me:
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/princewill-okonjo-951710255" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/>
+  </a>
+  <a href="https://twitter.com/Willmanzlair" target="_blank">
+    <img alt="X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="28"/>
+  </a>
+  <a href="mailto:iamfloki.a@gmail.com" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail&logoColor=white" height="28"/>
+  </a>
+  <span style="margin-left: 10px;">iamfloki.a@gmail.com</span>
+</p>
+
+---
+
+## Pentesting Strengths & Capabilities
+- Tools & Technologies (Burp Suite, Nmap, ffuf, SQLmap, Postman)
+- Reconnaissance & Enumeration
+- Web Application Mapping
+- Code & Secrets Scanning (TruffleHog, GitLeaks, GitHub Dorks)
+- Static & Dynamic Analysis
+- Authentication & Session Testing
+- API Security Testing (REST/GraphQL, Postman, Burp Repeater)
+- Scripting & Automation (Python, Bash, automated fuzzing and scanning)
+- Exploitation & Payload Crafting (XSS, SQLi, RCE, logic flaws)
+- Clear Reporting
+
+## Security Methodologies & Standards
+MITRE ATT&CK | PTES | OWASP Testing Guide | OWASP ASVS | NIST SP 800-115 | OSSTMM
+
+## Certifications
+eJPT | PNPT | OSCP | Completion of Personalized Penetration Testing Mentorship (Bugfreak Academy)
 
 ## 📁 AppSec Deliverables
 Explore my hands-on exploitation case files:
@@ -39,3 +74,8 @@ Explore my hands-on exploitation case files:
 - [WebSocket Vulnerability Exploitation in Web Applications](https://github.com/Willmanzlair/WebSocket-Vulnerability-Exploitation-in-Web-Applications)
 - [XSS Vulnerability Exploitation in Web Applications](https://github.com/Willmanzlair/XSS-Vulnerability-Exploitation-in-Web-Applications)
 - [XXE Vulnerability Exploitation in Web Applications](https://github.com/Willmanzlair/XXE-Vulnerability-Exploitation-in-Web-Applications)
+
+## Ethical Standards & Confidentiality
+As a cybersecurity practitioner, I adhere strictly to industry standards around confidentiality and responsible disclosure. Many of the engagements I’ve undertaken are governed by non-disclosure agreements and organizational policies that prohibit the public mention of client names or internal systems — and I honor those expectations without exception.
+
+I showcase what matters most: the depth of analysis, the precision of execution, and the real-world impact of each engagement. Every deliverable in this portfolio is crafted to demonstrate not just what I did — but how I think, how I approach complex security challenges, and how I uphold the ethical standards that define this industry.
