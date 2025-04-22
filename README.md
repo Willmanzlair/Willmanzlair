@@ -1,41 +1,156 @@
-Hi, My name is PRINCEWILL OKONJO!
-==================================
+# Hi, my name is PRINCEWILL OKONJO! 👋
+### Web Application Penetration Tester
 
-Web Application Penetration Tester.
------------------------------------
+---
 
-Cybersecurity Professional | Ethical Hacker | Web App Penetration Tester | Bug Bounty Researcher
+🔐 Cybersecurity Professional | Ethical Hacker | Web App Pentester | Bug Bounty Researcher
+🌍 Based in the United Kingdom
+📬 Contact me: iamfloki.a@gmail.com
 
-* 🌍  I'm based in United Kingdom
-* ✉️  You can contact me at [iamfloki.a@gmail.com](mailto:iamfloki.a@gmail.com)
+---
 
-<a href="https://www.github.com/Willmanzlair" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Willmanzlair?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/Willmanzlair" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/Willmanzlair?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+## 📁 AppSec Deliverables
+Explore my hands-on exploitation case files. Each repository contains a professionally structured PDF report and supporting visuals.
 
-## 📁 AppSec Portfolio
+---
+### [API Vulnerability Exploitation in Web Applications](https://github.com/Willmanzlair/API-Vulnerability-Exploitation-in-Web-Applications)
+📄 [View PDF](https://github.com/Willmanzlair/API-Vulnerability-Exploitation-in-Web-Applications/blob/main/API%20Vulnerability%20Exploitation%20in%20Web%20Applications.pdf)
+🖼️ ![View Image](https://i.imgur.com/your-placeholder-image.png)
 
-Explore my hands-on exploitation case files:
- [AppSec-Deliverables](https://github.com/Willmanzlair/AppSec-Deliverables)
+---
+### [Authentication Vulnerability Exploitation in Web Applications](https://github.com/Willmanzlair/Authentication-Vulnerability-Exploitation-in-Web-Applications)
+📄 [View PDF](https://github.com/Willmanzlair/Authentication-Vulnerability-Exploitation-in-Web-Applications/blob/main/Authentication%20Vulnerability%20Exploitation%20in%20Web%20Applications.pdf)
+🖼️ ![View Image](https://i.imgur.com/your-placeholder-image.png)
 
+---
+### [Business Logic Vulnerability Exploitation in Web Applications](https://github.com/Willmanzlair/Business-Logic-Vulnerability-Exploitation-in-Web-Applications)
+📄 [View PDF](https://github.com/Willmanzlair/Business-Logic-Vulnerability-Exploitation-in-Web-Applications/blob/main/Business%20Logic%20Vulnerability%20Exploitation%20in%20Web%20Applications%20–%20Infinite%20Money%20Logic%20Flow.pdf)
+🖼️ ![View Image](https://i.imgur.com/your-placeholder-image.png)
 
-### Skills
+---
+### [CORS Vulnerability Exploitation in Web Applications1](https://github.com/Willmanzlair/CORS-Vulnerability-Exploitation-in-Web-Applications1)
+📄 [View PDF](https://github.com/Willmanzlair/CORS-Vulnerability-Exploitation-in-Web-Applications1/blob/main/CORS%20Vulnerability%20Exploitation%20in%20Web%20Applications1.pdf)
+🖼️ ![View Image](https://i.imgur.com/your-placeholder-image.png)
 
+---
+### [CSRF Vulnerability Exploitation in Web Applications](https://github.com/Willmanzlair/CSRF-Vulnerability-Exploitation-in-Web-Applications)
+📄 [View PDF](https://github.com/Willmanzlair/CSRF-Vulnerability-Exploitation-in-Web-Applications/blob/main/CSRF%20Vulnerability%20Exploitation%20in%20Web%20Applications.pdf)
+🖼️ ![View Image](https://i.imgur.com/your-placeholder-image.png)
 
-<p align="left">
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-</p>
+---
+### [Clickjacking Vulnerability Exploitation in Web Applications](https://github.com/Willmanzlair/Clickjacking-Vulnerability-Exploitation-in-Web-Applications)
+📄 [View PDF](https://github.com/Willmanzlair/Clickjacking-Vulnerability-Exploitation-in-Web-Applications/blob/main/Clickjacking%20Vulnerability%20Exploitation%20in%20Web%20Applications%20–%20UI%20Layer%20Misalignment%20Leading%20to%20Account%20Deletion.pdf)
+🖼️ ![View Image](https://i.imgur.com/your-placeholder-image.png)
 
+---
+### [DOM Based Vulnerability Exploitation in Web Applications1](https://github.com/Willmanzlair/DOM-Based-Vulnerability-Exploitation-in-Web-Applications1)
+📄 [View PDF](https://github.com/Willmanzlair/DOM-Based-Vulnerability-Exploitation-in-Web-Applications1/blob/main/DOM-Based%20Vulnerability%20Exploitation%20in%20Web%20Applications1.pdf)
+🖼️ ![View Image](https://i.imgur.com/your-placeholder-image.png)
 
-### Socials
+---
+### [File Upload Vulnerability Exploitation in Web Applications1](https://github.com/Willmanzlair/File-Upload-Vulnerability-Exploitation-in-Web-Applications1)
+📄 [View PDF](https://github.com/Willmanzlair/File-Upload-Vulnerability-Exploitation-in-Web-Applications1/blob/main/File%20Upload%20Vulnerability%20Exploitation%20in%20Web%20Applications1.pdf)
+🖼️ ![View Image](https://i.imgur.com/your-placeholder-image.png)
 
-<p align="left"> <a href="https://discord.com/users/Willmanzlair" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/Willmanzlair" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/princewill-okonjo-951710255" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/Willmanzlair" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
+---
+### [GraphQL Vulnerability Exploitation in Web Applications](https://github.com/Willmanzlair/GraphQL-Vulnerability-Exploitation-in-Web-Applications)
+📄 [View PDF](https://github.com/Willmanzlair/GraphQL-Vulnerability-Exploitation-in-Web-Applications/blob/main/GraphQL%20Vulnerability%20Exploitation%20in%20Web%20Applications.pdf)
+🖼️ ![View Image](https://i.imgur.com/your-placeholder-image.png)
 
-### Badges
+---
+### [HTTP Host Header Attacks Vulnerability Exploitation in Web Applications](https://github.com/Willmanzlair/HTTP-Host-Header-Attacks-Vulnerability-Exploitation-in-Web-Applications)
+📄 [View PDF](https://github.com/Willmanzlair/HTTP-Host-Header-Attacks-Vulnerability-Exploitation-in-Web-Applications/blob/main/HTTP%20Host%20Header%20Attacks%20Vulnerability%20Exploitation%20in%20Web%20Applications.pdf)
+🖼️ ![View Image](https://i.imgur.com/your-placeholder-image.png)
 
-<b>My GitHub Stats</b>
+---
+### [HTTP Request Smuggling Vulnerability Exploitation in Web Applications](https://github.com/Willmanzlair/HTTP-Request-Smuggling-Vulnerability-Exploitation-in-Web-Applications)
+📄 [View PDF](https://github.com/Willmanzlair/HTTP-Request-Smuggling-Vulnerability-Exploitation-in-Web-Applications/blob/main/HTTP%20Request%20Smuggling%20Vulnerability%20Exploitation%20in%20Web%20Applications.pdf)
+🖼️ ![View Image](https://i.imgur.com/your-placeholder-image.png)
 
-<a href="http://www.github.com/Willmanzlair"><img src="https://github-readme-stats.vercel.app/api?username=Willmanzlair&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Willmanzlair's GitHub stats" /></a>
+---
+### [Information Disclosure Vulnerability Exploitation in Web Application](https://github.com/Willmanzlair/Information-Disclosure-Vulnerability-Exploitation-in-Web-Application)
+📄 [View PDF](https://github.com/Willmanzlair/Information-Disclosure-Vulnerability-Exploitation-in-Web-Application/blob/main/Information%20Disclosure%20Vulnerability%20Exploitation%20in%20Web%20Application.pdf)
+🖼️ ![View Image](https://i.imgur.com/your-placeholder-image.png)
 
-<a href="http://www.github.com/Willmanzlair"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Willmanzlair&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+---
+### [Insecure Deserialization Vulnerability Exploitation in Web Applications](https://github.com/Willmanzlair/Insecure-Deserialization-Vulnerability-Exploitation-in-Web-Applications)
+📄 [View PDF](https://github.com/Willmanzlair/Insecure-Deserialization-Vulnerability-Exploitation-in-Web-Applications/blob/main/Insecure%20Deserialization%20Vulnerability%20Exploitation%20in%20Web%20Applications.pdf)
+🖼️ ![View Image](https://i.imgur.com/your-placeholder-image.png)
+
+---
+### [JWT Vulnerability Exploitation in Web Applications](https://github.com/Willmanzlair/JWT-Vulnerability-Exploitation-in-Web-Applications)
+📄 [View PDF](https://github.com/Willmanzlair/JWT-Vulnerability-Exploitation-in-Web-Applications/blob/main/JWT%20Vulnerability%20Exploitation%20in%20Web%20Applications%20–%20Signature%20Validation%20Bypass%20via%20Modified%20Claims.pdf)
+🖼️ ![View Image](https://i.imgur.com/your-placeholder-image.png)
+
+---
+### [NoSQL Injection Vulnerability Exploitation in Web Applications](https://github.com/Willmanzlair/NoSQL-Injection-Vulnerability-Exploitation-in-Web-Applications)
+📄 [View PDF](https://github.com/Willmanzlair/NoSQL-Injection-Vulnerability-Exploitation-in-Web-Applications/blob/main/NoSQL%20Injection%20Vulnerability%20Exploitation%20in%20Web%20Applications.pdf)
+🖼️ ![View Image](https://i.imgur.com/your-placeholder-image.png)
+
+---
+### [OAuth Authentication Vulnerability Exploitation in Web Applications](https://github.com/Willmanzlair/OAuth-Authentication-Vulnerability-Exploitation-in-Web-Applications)
+📄 [View PDF](https://github.com/Willmanzlair/OAuth-Authentication-Vulnerability-Exploitation-in-Web-Applications/blob/main/OAuth%20Authentication%20Vulnerability%20Exploitation%20in%20Web%20Applications.pdf)
+🖼️ ![View Image](https://i.imgur.com/your-placeholder-image.png)
+
+---
+### [OS Command Injection Vulnerability Exploitation in Web Applications](https://github.com/Willmanzlair/OS-Command-Injection-Vulnerability-Exploitation-in-Web-Applications)
+📄 [View PDF](https://github.com/Willmanzlair/OS-Command-Injection-Vulnerability-Exploitation-in-Web-Applications/blob/main/OS%20Command%20Injection%20Vulnerability%20Exploitation%20in%20Web%20Applications.pdf)
+🖼️ ![View Image](https://i.imgur.com/your-placeholder-image.png)
+
+---
+### [Path Traversal Vulnerability Exploitation in Web Applications](https://github.com/Willmanzlair/Path-Traversal-Vulnerability-Exploitation-in-Web-Applications)
+📄 [View PDF](https://github.com/Willmanzlair/Path-Traversal-Vulnerability-Exploitation-in-Web-Applications/blob/main/Path%20Traversal%20Vulnerability%20Exploitation%20in%20Web%20Applications.pdf)
+🖼️ ![View Image](https://i.imgur.com/your-placeholder-image.png)
+
+---
+### [Pentest_Tool_Mapping_Loki](https://github.com/Willmanzlair/Pentest_Tool_Mapping_Loki)
+📄 [View PDF](https://github.com/Willmanzlair/Pentest_Tool_Mapping_Loki/blob/main/Pentest_Tool_Mapping_Loki.pdf)
+🖼️ ![View Image](https://i.imgur.com/your-placeholder-image.png)
+
+---
+### [Prototype Pollution Vulnerability Exploitation in Web Applications](https://github.com/Willmanzlair/Prototype-Pollution-Vulnerability-Exploitation-in-Web-Applications)
+📄 [View PDF](https://github.com/Willmanzlair/Prototype-Pollution-Vulnerability-Exploitation-in-Web-Applications/blob/main/Prototype%20Pollution%20Vulnerability%20Exploitation%20in%20Web%20Applications.pdf)
+🖼️ ![View Image](https://i.imgur.com/your-placeholder-image.png)
+
+---
+### [Race Condition Vulnerability Exploitation in Web Applications](https://github.com/Willmanzlair/Race-Condition-Vulnerability-Exploitation-in-Web-Applications)
+📄 [View PDF](https://github.com/Willmanzlair/Race-Condition-Vulnerability-Exploitation-in-Web-Applications/blob/main/Race%20Condition%20Vulnerability%20Exploitation%20in%20Web%20Applications.pdf)
+🖼️ ![View Image](https://i.imgur.com/your-placeholder-image.png)
+
+---
+### [SQL Injection Vulnerability Exploitation in Web Applications](https://github.com/Willmanzlair/SQL-Injection-Vulnerability-Exploitation-in-Web-Applications)
+📄 [View PDF](https://github.com/Willmanzlair/SQL-Injection-Vulnerability-Exploitation-in-Web-Applications/blob/main/SQL%20Injection%20Vulnerability%20Exploitation%20in%20Web%20Applications.pdf)
+🖼️ ![View Image](https://i.imgur.com/your-placeholder-image.png)
+
+---
+### [Server Side Request Forgery Exploitation in Web Applications1](https://github.com/Willmanzlair/Server-Side-Request-Forgery-Exploitation-in-Web-Applications1)
+📄 [View PDF](https://github.com/Willmanzlair/Server-Side-Request-Forgery-Exploitation-in-Web-Applications1/blob/main/Server-Side%20Request%20Forgery%20Exploitation%20in%20Web%20Applications1.pdf)
+🖼️ ![View Image](https://i.imgur.com/your-placeholder-image.png)
+
+---
+### [Server Side Template Injection Exploitation in Web Applications](https://github.com/Willmanzlair/Server-Side-Template-Injection-Exploitation-in-Web-Applications)
+📄 [View PDF](https://github.com/Willmanzlair/Server-Side-Template-Injection-Exploitation-in-Web-Applications/blob/main/Server-Side%20Template%20Injection%20Exploitation%20in%20Web%20Applications.pdf)
+🖼️ ![View Image](https://i.imgur.com/your-placeholder-image.png)
+
+---
+### [Web Cache Poisoning Vulnerability Exploitation in Web Applications](https://github.com/Willmanzlair/Web-Cache-Poisoning-Vulnerability-Exploitation-in-Web-Applications)
+📄 [View PDF](https://github.com/Willmanzlair/Web-Cache-Poisoning-Vulnerability-Exploitation-in-Web-Applications/blob/main/Web%20Cache%20Poisoning%20Vulnerability%20Exploitation%20in%20Web%20Applications.pdf)
+🖼️ ![View Image](https://i.imgur.com/your-placeholder-image.png)
+
+---
+### [WebSocket Vulnerability Exploitation in Web Applications](https://github.com/Willmanzlair/WebSocket-Vulnerability-Exploitation-in-Web-Applications)
+📄 [View PDF](https://github.com/Willmanzlair/WebSocket-Vulnerability-Exploitation-in-Web-Applications/blob/main/WebSocket%20Vulnerability%20Exploitation%20in%20Web%20Applications.pdf)
+🖼️ ![View Image](https://i.imgur.com/your-placeholder-image.png)
+
+---
+### [XSS Vulnerability Exploitation in Web Applications](https://github.com/Willmanzlair/XSS-Vulnerability-Exploitation-in-Web-Applications)
+📄 [View PDF](https://github.com/Willmanzlair/XSS-Vulnerability-Exploitation-in-Web-Applications/blob/main/XSS%20Vulnerability%20Exploitation%20in%20Web%20Applications.pdf)
+🖼️ ![View Image](https://i.imgur.com/your-placeholder-image.png)
+
+---
+### [XXE Vulnerability Exploitation in Web Applications](https://github.com/Willmanzlair/XXE-Vulnerability-Exploitation-in-Web-Applications)
+📄 [View PDF](https://github.com/Willmanzlair/XXE-Vulnerability-Exploitation-in-Web-Applications/blob/main/XXE%20Vulnerability%20Exploitation%20in%20Web%20Applications.pdf)
+🖼️ ![View Image](https://i.imgur.com/your-placeholder-image.png)
+
+---
+> **Note:** All visuals are anonymized for responsible disclosure. Reports are built from lab scenarios designed to reflect real-world logic, configuration, and implementation vulnerabilities.
