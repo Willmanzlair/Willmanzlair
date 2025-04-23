@@ -27,7 +27,7 @@ Guided by industry standards, I deliver precise, high-impact assessments and pro
 MITRE ATT&CK | PTES | OWASP Testing Guide | OWASP ASVS | NIST SP 800-115 | OSSTMM
 
 ## Certifications
-eJPT | PNPT | OSCP | Completion of Personalized Penetration Testing Mentorship (Bugfreak Academy)
+eJPT | PNPT | Completion of Personalized Penetration Testing Mentorship (Bugfreak Academy)
 
 ## AppSec Deliverables
 - [API Vulnerability Exploitation in Web Applications](https://github.com/Willmanzlair/API-Vulnerability-Exploitation-in-Web-Applications)
