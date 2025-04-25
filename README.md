@@ -1,26 +1,22 @@
-#  Hi, I’m **Princewill Okonjo**! 
+# Hi, I’m **Princewill Okonjo**!
 
-### 🧠 Offensive Security Specialist 
+## **Offensive Security Specialist**
 ---
-🛡️ Cybersecurity | 🕵🏽 Ethical Hacking | 💻 Web App Pentesting | 🎯 Bug Bounty Hunting
-
-
-I specialize in offensive security with a focus on web application testing, real-world exploitation, and risk-driven vulnerability management.  
-Guided by industry standards, I deliver precise, high-impact assessments and professional reporting that strengthen security posture and drive actionable outcomes.
+🔴 **Red Team Operations** | 🧪 **Vulnerability Research** | 🌐 **Web Application Pentesting** | 🛡️ **Ethical Hacking** | 🐞 **Bug Bounty Hunting**
 
 ---
 
 ## 🧰 Pentesting Strengths & Capabilities
 
-- Tools & Technologies (Burp Suite, Nmap, ffuf, SQLmap, Postman)
+- API Security Testing
 - Reconnaissance & Enumeration
+- Tools & Technologies
 - Web Application Mapping
-- Code & Secrets Scanning (TruffleHog, GitLeaks, GitHub Dorks)
+- Code & Secrets Scanning
 - Static & Dynamic Analysis
 - Authentication & Session Testing
-- API Security Testing (REST/GraphQL, Postman, Burp Repeater)
-- Scripting & Automation (Python, Bash, automated fuzzing and scanning)
-- Exploitation & Payload Crafting (XSS, SQLi, RCE, logic flaws)
+- Scripting & Automation
+- Exploitation & Fuzzing Technique
 - Clear Reporting
 
 ## Security Methodologies & Standards
@@ -29,7 +25,7 @@ MITRE ATT&CK | PTES | OWASP Testing Guide | OWASP ASVS | NIST SP 800-115 | OSSTM
 ## Certifications
 eJPT | PNPT | Completion of Personalized Penetration Testing Mentorship (Bugfreak Academy)
 
-## AppSec Deliverables
+## Demonstrated Outcomes
 - [API Vulnerability Exploitation in Web Applications](https://github.com/Willmanzlair/API-Vulnerability-Exploitation-in-Web-Applications)
 - [Authentication Vulnerability Exploitation in Web Applications](https://github.com/Willmanzlair/Authentication-Vulnerability-Exploitation-in-Web-Applications)
 - [Business Logic Vulnerability Exploitation in Web Applications](https://github.com/Willmanzlair/Business-Logic-Vulnerability-Exploitation-in-Web-Applications)
@@ -58,14 +54,12 @@ eJPT | PNPT | Completion of Personalized Penetration Testing Mentorship (Bugfrea
 - [XSS Vulnerability Exploitation in Web Applications](https://github.com/Willmanzlair/XSS-Vulnerability-Exploitation-in-Web-Applications)
 - [XXE Vulnerability Exploitation in Web Applications](https://github.com/Willmanzlair/XXE-Vulnerability-Exploitation-in-Web-Applications)
 
-
-
 ## 🧭 Ethical Standards & Confidentiality
 
-  I adhere strictly to industry-recognized ethical standards and responsible disclosure practices.  
+I adhere strictly to industry-recognized ethical standards and responsible disclosure practices.  
 Many of my engagements are bound by non-disclosure agreements or internal policies that restrict public attribution — and I respect those boundaries fully.
 
-  I showcase what matters most: the depth of analysis, the precision of execution, and the real-world impact of each engagement.  
+I showcase what matters most: the depth of analysis, the precision of execution, and the real-world impact of each engagement.  
 Every deliverable in this portfolio is crafted to demonstrate not just what I did — but how I think, how I approach complex security challenges, and how I uphold the ethical standards that define this industry.
 
 ---
@@ -75,8 +69,7 @@ Every deliverable in this portfolio is crafted to demonstrate not just what I di
 ## 📡 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/princewill-okonjo-951710255)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Willmanzlair)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Email](https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamfloki.a@gmail.com)
-
