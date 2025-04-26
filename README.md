@@ -20,7 +20,7 @@
 - Clear Reporting
 
 ## Security Methodologies & Standards
-MITRE ATT&CK | PTES | OWASP Testing Guide | OWASP ASVS | NIST SP 800-115 | OSSTMM
+MITRE ATT&CK | PTES | OWASP WSTG | OWASP ASVS | NIST SP 800-115 | OSSTMM
 
 ## Certifications
 eJPT | PNPT | Completion of Personalized Penetration Testing Mentorship (Bugfreak Academy)
