@@ -2,7 +2,7 @@
 
 ## **Offensive Security Specialist**
 ---
-🔴 **Red Team Operations** | 🧪 **Vulnerability Research** | 🌐 **Web Application Pentesting** | 🛡️ **Ethical Hacking** | 🐞 **Bug Bounty Hunting**
+🔴**Red Team Operations**|🧪**Vulnerability Research**|🌐**Web Application Pentesting**|🛡️**Ethical Hacking**|🐞**Bug Bounty Hunting**
 
 ---
 
