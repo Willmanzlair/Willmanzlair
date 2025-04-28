@@ -1,6 +1,7 @@
 # Hi, I’m **Princewill Okonjo**!
 
 I specialize in Offensive Security, performing real-world exploitation, focused vulnerability assessments, and executive-level reporting. I connect technical findings with business priorities to support informed decision-making and help organizations strengthen their security posture with practical, measurable improvements.
+
 ---
 🔴**Red Team Operations** |🧪**Vulnerability Research** |🌐**Web Application Pentesting** |🛡️**Ethical Hacking** |🐞**Bug Bounty Hunting**
 
