@@ -21,7 +21,7 @@ I specialize in Offensive Security, performing real-world exploitation, focused 
 - Clear Reporting
 
 ## Security Methodologies & Standards
- PTES | OWASP WSTG | OWASP ASVS | MITRE ATT&CK | NIST SP 800-115 | OSSTMM
+ PTES | ISSAF | OWASP WSTG | OWASP ASVS | MITRE ATT&CK | NIST SP 800-115 | OSSTMM
 
 ## Certifications
 eJPT | PNPT | Completion of Personalized Penetration Testing Mentorship (Bugfreak Academy)
