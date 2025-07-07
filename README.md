@@ -24,7 +24,7 @@ I specialize in Offensive Security, performing real-world exploitation, focused 
  PTES | ISSAF | OWASP WSTG | OWASP ASVS | MITRE ATT&CK | NIST SP 800-115 | OSSTMM
 
 ## Certifications
-eJPT | PNPT | Completion of Personalized Penetration Testing Mentorship (Bugfreak Academy)
+| GPEN | OSCP | CEPT – In progress | Completion of Personalized Penetration Testing Mentorship – Bugfreak Academy
 
 ## Demonstrated Outcomes
 - [API Vulnerability Exploitation in Web Applications](https://github.com/Willmanzlair/API-Vulnerability-Exploitation-in-Web-Applications)
